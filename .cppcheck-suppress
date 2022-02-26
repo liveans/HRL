@@ -1,0 +1,16 @@
+# ______________________________________________________
+# `cppcheck-suppress` file of the Hadouken.
+# Contains configuration for suppressing cppcheck warnings based on
+# NETTSI C++ Code Standards. 
+# 
+# @file     .cppcheck-suppress
+# @author   Mustafa Kemal GILOR <mgilor@nettsi.com>
+# @date     11.03.2020
+# 
+# Copyright (c) Nettsi Informatics Technology Inc. 
+# All rights reserved. Licensed under the Apache 2.0 License. 
+# See LICENSE in the project root for license information.
+# 
+# SPDX-License-Identifier:	Apache 2.0
+# ______________________________________________________
+
